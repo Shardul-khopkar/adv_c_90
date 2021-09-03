@@ -1,0 +1,22 @@
+#player_question,
+#player_answer {
+	font-size: 18px;
+}
+
+body {
+	background-image: url("download.jpg");
+	background-size: cover;
+	color: white;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 20px solid #87CEEB;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	color: black;
+	font-size:15px;
+}
+
